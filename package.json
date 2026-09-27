@@ -1,0 +1,11 @@
+{
+  "name": "pushary-fx",
+  "version": "0.1.0",
+  "description": "Phone approvals and attention pushes for fx through its lifecycle hooks",
+  "type": "module",
+  "private": true,
+  "bin": { "pushary-fx-hook": "pushary-fx-hook.mjs" },
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
